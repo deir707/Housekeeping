@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/year2"
+        android:title=" 1960s" />
+    <item
+        android:id="@+id/year3"
+        android:title="1970s" />
+    <item
+        android:id="@+id/year4"
+        android:title="1980s" />
+    <item
+        android:id="@+id/year5"
+        android:title="1990s" />
+    <item
+        android:id="@+id/year6"
+        android:title="2000s" />
+    <item
+        android:id="@+id/year7"
+        android:title="2010s" />
+    <item
+        android:id="@+id/year8"
+        android:title="2020s" />
+</menu>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/price1"
+        android:title="0 - 200 €" />
+    <item
+        android:id="@+id/price2"
+        android:title="201 - 400 €" />
+    <item
+        android:id="@+id/price3"
+        android:title="401 - 600 €" />
+    <item
+        android:id="@+id/price4"
+        android:title="601 - 800 €" />
+    <item
+        android:id="@+id/price5"
+        android:title="801 - 1.000 €" />
+    <item
+        android:id="@+id/price6"
+        android:title="1.001 - 1.200 €" />
+    <item
+        android:id="@+id/price7"
+        android:title="1.201 - 1.500 €" />
+    <item
+        android:id="@+id/price8"
+        android:title="1.501 - 50.000 €" />
+    <item
+        android:id="@+id/price9"
+        android:title="50.001 - 100.000 €" />
+    <item
+        android:id="@+id/price10"
+        android:title="100.001 - 150.000 €" />
+    <item
+        android:id="@+id/price11"
+        android:title="150.001 - 200.000 €" />
+    <item
+        android:id="@+id/price12"
+        android:title="200.001 - 300.000 €" />
+    <item
+        android:id="@+id/price13"
+        android:title="300.001 - 500.000 €" />
+    <item
+        android:id="@+id/price14"
+        android:title="300.001 - 500.000 €" />
+    <item
+        android:id="@+id/price15"
+        android:title=" 500.000+ €" />
+
+</menu>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/type2"
+        android:title="Apartment" />
+    <item
+        android:id="@+id/type3"
+        android:title="Studio Flat" />
+    <item
+        android:id="@+id/type4"
+        android:title="Maisonette" />
+    <item
+        android:id="@+id/type5"
+        android:title="Villa" />
+    <item
+        android:id="@+id/type6"
+        android:title="Bungalow" />
+    <item
+        android:id="@+id/type7"
+        android:title="Loft" />
+
+</menu>

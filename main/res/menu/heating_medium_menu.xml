@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/heatingmedium2"
+        android:title="Petrol" />
+    <item
+        android:id="@+id/heatingmedium3"
+        android:title="Natural Gas" />
+    <item
+        android:id="@+id/heatingmedium4"
+        android:title="Gas Heating System" />
+    <item
+        android:id="@+id/heatingmedium5"
+        android:title="Pellet" />
+    <item
+        android:id="@+id/heatingmedium6"
+        android:title="Wood" />
+    <item
+        android:id="@+id/heatingmedium7"
+        android:title="Current" />
+</menu>
